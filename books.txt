@@ -1,0 +1,7 @@
+Ray Bradbury	Dark carnival	1947	30	231
+Ray Bradbury	Fahrenheit 451	1953	351	400
+Ray Bradbury	Let`s kill Constancia	2002	15	400
+Ray Bradbury	Cure for melancholie	1959	300	212
+Arthur Doyle	Sherlock Holmes	1983	400	650
+Agatha Christie	Puaro	1920	300	700
+Asd	Bbbb	232	111	7
